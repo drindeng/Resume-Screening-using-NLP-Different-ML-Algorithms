@@ -13,3 +13,5 @@
 <a href="https://ideal.com/resume-screening/#:~:text=Resume%20screening%20is%20the%20process,candidate%20based%20on%20their%20resume" target="_blank" rel="noopener noreferrer">Source</a> 
 
 In this project, machine learning models is developed for the Resume Screening task.
+
+Dataset: https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
