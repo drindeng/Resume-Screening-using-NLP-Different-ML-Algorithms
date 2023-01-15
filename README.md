@@ -1,4 +1,4 @@
-# Resume-Screening-using-NLP-Different-ML-Algorithms
+# Intelligent resume screening using NLP and machine learning algorithms
 
 **A summary of resume screening:**
 
